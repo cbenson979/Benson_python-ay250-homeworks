@@ -1,2 +1,3 @@
-hw_1 README
-hw_1 README
+HW1 submission
+
+By: Christopher Benson
